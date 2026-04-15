@@ -59,6 +59,16 @@ Then open:
 - FastAPI
 - PyTorch
 
+## Model Files
+
+The trained DistilBERT model is not included in this repository due to size limitations.
+
+To run the project, place the model files in the following directory:
+
+distilbert_toxicity_model/
+
+Alternatively, the model can be downloaded from Hugging Face or provided separately.
+
 ## Author
 
 Syed Owais Haider Kazmi
