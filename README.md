@@ -69,7 +69,14 @@ distilbert_toxicity_model/
 
 Alternatively, the model can be downloaded from Hugging Face or provided separately.
 
+## Note on Executable
+
+An executable file (.exe) was not provided for this project because the system is designed as a backend API using FastAPI. Such applications are typically run through a Python environment rather than as standalone executables. 
+
+Additionally, the project relies on large machine learning model files and specific dependencies (such as PyTorch and Transformers), which are better managed through a virtual environment. Providing installation and run instructions ensures that the system can be executed reliably across different setups.
+
 ## Author
 
 Syed Owais Haider Kazmi
+
 University of New Brunswick
